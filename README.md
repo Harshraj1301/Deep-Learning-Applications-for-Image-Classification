@@ -75,27 +75,6 @@ The notebook `Code File.ipynb` includes the following steps:
 4. **Model Evaluation**: Evaluating the performance of the trained models on test data.
 5. **Image Classification**: Using the trained models to classify new images.
 
-Here are the contents of the notebook:
-
-# Part 1 - Step 1
-
-# Part 1 - Step 2
-
-# Part 1 - Step 3
-
-# Part 1 - Step 4
-
-# Part 1 - Step 5
-
-# Part 2 - Step 1
-
-# Part 2 - Step 2
-
-# Part 2 - Step 3
-
-# Part 2 - Step 4
-
-# Part 2 - Step 5
 
 ## Code Cells
 
